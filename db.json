@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Fern",
+      "image": "https://secure.img1-fg.wfcdn.com/im/66653360/resize-h445%5Ecompr-r85/6626/66267265/Faux+Botanical+Areca+Palm+in+Green+Finish+59%2522+Height.jpg",
+      "price": 5,
+      "id": 8
     }
   ]
 }
